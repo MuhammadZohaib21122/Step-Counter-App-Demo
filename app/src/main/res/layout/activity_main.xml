@@ -13,7 +13,7 @@
         android:layout_gravity="center"
         android:layout_marginBottom="16dp"
         android:gravity="center"
-        android:text="Steps: 0"
+        android:text="@string/tex_steps_0"
         android:textAlignment="center"
         android:textSize="30sp"
         android:textStyle="bold" />
@@ -22,7 +22,7 @@
         android:id="@+id/resetButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Reset"
+        android:text="@string/tex_reset"
         android:textAlignment="center"
         android:textSize="20sp"/>
 

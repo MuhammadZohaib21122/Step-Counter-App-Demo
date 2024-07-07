@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StepCounter</string>
+    <string name="tex_steps_0">Steps: 0</string>
+    <string name="tex_reset">Reset</string>
 </resources>
